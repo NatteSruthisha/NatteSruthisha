@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Natte Sruthisha  
 
-🚀 **Full Stack Developer | React.js | Node.js | Django | MongoDB**
+🚀 **Full Stack Developer | React.js | Node.js | ExpressJs | MongoDB**
 
 I’m a results-driven full stack developer passionate about building responsive, scalable, and user-focused web applications. With hands-on experience across frontend, backend, and IoT projects, I love turning ideas into production-ready solutions that solve real-world problems.
 
@@ -10,7 +10,7 @@ I’m a results-driven full stack developer passionate about building responsive
 
 - 🎓 **B.Tech in Electronics and Communication Engineering** from IIIT Sricity  
 - 💼 Currently working as a **Freelance Full Stack Developer** at *Shivamani Electronics LLP*  
-- 🛠️ Skilled in **React.js, Node.js (Express), Django, PostgreSQL, and MongoDB**  
+- 🛠️ Skilled in **React.js, Node.js (Express), PostgreSQL, and MongoDB**  
 - ☁️ Experienced with **Microsoft Azure**, REST APIs, and CI/CD pipelines  
 - 💡 Strong believer in clean architecture, reusable components, and performance optimization  
 - 🌱 Currently exploring **Next.js and advanced cloud integrations**  
@@ -23,7 +23,7 @@ I’m a results-driven full stack developer passionate about building responsive
 React.js (Hooks, Context) • HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • Bootstrap  
 
 **Backend:**  
-Node.js (Express) • Django • RESTful APIs • MongoDB • PostgreSQL  
+Node.js (Express) • RESTful APIs • PostgreSQL • Spring Boot • Java
 
 **Tools & Platforms:**  
 Git • GitHub • VS Code • Webpack • NPM • Azure • Arduino IDE  
